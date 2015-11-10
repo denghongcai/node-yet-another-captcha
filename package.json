@@ -1,0 +1,30 @@
+{
+  "name": "yet-another-captcha",
+  "version": "1.0.0",
+  "description": "yet another captcha",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "promisify-node": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denghongcai/node-yet-another-captcha.git"
+  },
+  "keywords": [
+    "captcha"
+  ],
+  "author": "Hongcai Deng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denghongcai/node-yet-another-captcha/issues"
+  },
+  "homepage": "https://github.com/denghongcai/node-yet-another-captcha#readme"
+}
